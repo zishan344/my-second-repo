@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: silver;
+}
+#main {
+  width: 80%;
+  margin: 0 auto;
+}
+#img-caption {
+  text-align: center;
+}
+#image {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+#title {
+  text-align: center;
+}
